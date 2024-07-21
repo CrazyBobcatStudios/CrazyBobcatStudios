@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrazyBobcatStudios
-- 👀 I’m interested in .NET 8
+- 👀 I’m interested in .NET 9
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on a WINUI3 project
 - 📫 Contact me via discord @bobcatidk
